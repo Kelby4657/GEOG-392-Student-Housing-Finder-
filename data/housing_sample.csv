@@ -1,0 +1,3 @@
+id,address,rent,beds,baths,sqft,lat,lon,distance_to_campus_miles,link
+1,123 College Ave,1200,2,1,850,30.6187,-96.3365,0.5,https://example.com/listing1
+2,456 University Dr,950,1,1,600,30.6150,-96.3400,1.2,https://example.com/listing2

@@ -1,0 +1,3 @@
+id,origin_lat,origin_lon,destination,commute_mode,duration_minutes,distance_miles
+1,30.6187,-96.3365,Texas A&M Campus,walking,10,0.5
+2,30.6150,-96.3400,Texas A&M Campus,biking,8,1.2
