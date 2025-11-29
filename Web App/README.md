@@ -1,25 +1,29 @@
- Data Directory
+# Configuration Directory
 
-This directory contains the main data files for the Student Housing Finder application.
+This directory contains customization features and configuration files for the Student Housing Finder application.
 
 ## Purpose
 
-Store all data files related to:
+Store all configuration and customization files including:
 
-- **Housing Data**: Information about available housing options (prices, locations, amenities)
-- **Location Data**: Geographic data for TAMU campus and surrounding areas
-- **Commute Data**: Transportation routes, distances, and commute time information
+- **App Settings**: Application configuration parameters
+- **Theme Settings**: UI customization and styling options
+- **Map Configuration**: Map layers, styles, and default views
+- **Filter Presets**: Default filter settings and custom presets
 
-## File Types
+## Configuration Files
 
-Supported data formats:
-- CSV files for tabular data
-- GeoJSON files for geographic/spatial data
-- JSON files for structured data
+Example configuration files:
 
-## Example Files
+- `app.config.json` - Main application settings
+- `map.config.json` - Map display and layer configuration
+- `filters.config.json` - Default filter values and options
 
-Place your data files here, such as:
-- `housing_listings.csv` - Housing listings with prices and details
-- `campus_locations.geojson` - TAMU campus boundary and points of interest
-- `commute_routes.json` - Available commute options and routes
+## Customization Options
+
+The configuration supports customization of:
+- Default map center (TAMU campus coordinates)
+- Price range filters
+- Commute distance thresholds
+- Available transportation modes
+- UI theme and colors
