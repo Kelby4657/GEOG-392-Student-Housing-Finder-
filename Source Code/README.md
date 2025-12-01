@@ -16,7 +16,7 @@ Store all source code files including:
 Organize code into subdirectories as the project grows:
 
 ```
-src/
+Source Code/
 ├── components/    # UI components
 ├── services/      # API and data services
 ├── utils/         # Utility functions
