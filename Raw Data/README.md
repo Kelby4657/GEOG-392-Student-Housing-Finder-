@@ -14,8 +14,8 @@ Store all data files related to:
 
 Supported data formats:
 - CSV files for tabular data
-- GeoJSON files for geographic/spatial data
-- JSON files for structured data
+- SHP files for geographic/spatial data
+- PY files for organized data and processes
 
 ## Example Files
 
